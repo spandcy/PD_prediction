@@ -1,2 +1,2 @@
-# CreditCard_fraud
-The best result is Random Forest with 1000 tree, F1 score is about 0.85
+# PD_prediction
+The best result is logistic regression with L1 penalty, AUC is 0.7
